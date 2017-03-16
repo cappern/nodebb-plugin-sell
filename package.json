@@ -1,0 +1,24 @@
+{
+  "name": "nodebb-plugin-sell",
+  "version": "0.0.1",
+  "description": "A nodebb plugin that gives users the possibility to sell items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cappern/nodebb-plugin-sell.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "nodebb-plugin"
+  ],
+  "author": "cappern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cappern/nodebb-plugin-sell/issues"
+  },
+  "homepage": "https://github.com/cappern/nodebb-plugin-sell#readme"
+}
